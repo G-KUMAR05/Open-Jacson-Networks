@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-![image](https://github.com/user-attachments/assets/80b57e21-1c88-4bcf-acf2-b90b4e7a6de4)
+![image](https://github.com/user-attachments/assets/42044ce8-28e1-4ee9-bd40-cc9e794c3b9a)
 
 
 
